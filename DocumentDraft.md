@@ -7,7 +7,7 @@ GarageBand is a user friendly digital audio workstation(DAW). GarageBand acts as
 This [link](https://www.apple.com/mac/garageband/) is to download GarageBand for Mac OS. 
 ### Getting started
 Understandably the first thing you may want to do when you first install GarageBand is to start up a new project. 
-[Getting Started](https://alecm1717.github.io/Doc_images/test.md)
+[Getting Started](https://alecm1717.github.io/Doc_images/GettingStarted)
 
 
 

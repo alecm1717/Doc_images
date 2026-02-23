@@ -1,5 +1,9 @@
-# General
 
+## [Getting Started](https://alecm1717.github.io/Doc_images/GettingStarted)
+## [Presets](https://alecm1717.github.io/Doc_images/Presets)
+## [Recording](https://alecm1717.github.io/Doc_images/Record)
+---
+## General
 
 ## *What is GarageBand?*
 GarageBand is a user friendly digital audio workstation(DAW). GarageBand acts as a digital music studio allowing users to record and edit voices or instruments. GarageBand is the most beginner friendly of the DAW's but can still be challenging to understand for new users. 

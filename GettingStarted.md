@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 **[General](https://alecm1717.github.io/Doc_images/GarageBand)** &nbsp;|&nbsp; **[Presets](https://alecm1717.github.io/Doc_images/Presets)** &nbsp;|&nbsp; **[Recording](https://alecm1717.github.io/Doc_images/Record)** &nbsp;|&nbsp; **[Examples](https://alecm1717.github.io/Doc_images/PopularExamples)** 
 ---
 ## Getting Started

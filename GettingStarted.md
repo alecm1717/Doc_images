@@ -1,6 +1,5 @@
-## [General](https://alecm1717.github.io/Doc_images/DocumentDraft)
-## [Presets](https://alecm1717.github.io/Doc_images/Presets)
-## [Recording](https://alecm1717.github.io/Doc_images/Record)
+**[General](https://alecm1717.github.io/Doc_images/DocumentDraft)** &nbsp; | &nbsp; **[Presets](https://alecm1717.github.io/Doc_images/Presets)** &nbsp; | &nbsp; **[Recording](https://alecm1717.github.io/Doc_images/Record)** &nbsp; | &nbsp;
+**[Examples](https://alecm1717.github.io/Doc_images/PopularExamples)** 
 ---
 ## Getting Started
 This is the screen you will see when you open GarageBand. To start a new empty project click on the Empty Project icon and then select *choose* in the bottom right corner. 

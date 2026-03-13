@@ -1,6 +1,4 @@
-## [General](https://alecm1717.github.io/Doc_images/DocumentDraft) 
-## [Getting Started](https://alecm1717.github.io/Doc_images/GettingStarted)
-## [Recording](https://alecm1717.github.io/Doc_images/Record)
+**[Getting Started](https://alecm1717.github.io/Doc_images/GettingStarted)** &nbsp;|&nbsp; **[General](https://alecm1717.github.io/Doc_images/GarageBand)** &nbsp;|&nbsp; **[Recording](https://alecm1717.github.io/Doc_images/Record)** &nbsp;|&nbsp; **[Examples](https://alecm1717.github.io/Doc_images/PopularExamples)**
 ---
 ## Presets
 GarageBand's biggest advantage is its large number of presets for any instrument. These presets can simulate pretty much any instrument or amplifier that has ever been created. 

@@ -1,6 +1,5 @@
-## [General](https://alecm1717.github.io/Doc_images/DocumentDraft)
-## [Getting Started](https://alecm1717.github.io/Doc_images/GettingStarted)
-## [Presets](https://alecm1717.github.io/Doc_images/Presets)
+**[General](https://alecm1717.github.io/Doc_images/GarageBand)** &nbsp;|&nbsp; **[Getting Started](https://alecm1717.github.io/Doc_images/GettingStarted)** &nbsp;|&nbsp; **[Presets](https://alecm1717.github.io/Doc_images/Presets)** &nbsp;|&nbsp; **[Examples](https://alecm1717.github.io/Doc_images/PopularExamples)**
+
 ---
 ## Recording
 When you have tried out all the different fun presets of GarageBand, it is now time to record. At the top of the screen is the recording tab, with the red button, start/stop controls, metronome, tempo/beat controls and count-in options. 

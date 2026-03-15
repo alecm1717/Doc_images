@@ -1,6 +1,4 @@
----
-layout: null
----
+testlajlasj
 
 **[Getting Started](https://alecm1717.github.io/Doc_images/GettingStarted)** &nbsp;|&nbsp; **[General](https://alecm1717.github.io/Doc_images/GarageBand)** &nbsp;|&nbsp; **[Recording](https://alecm1717.github.io/Doc_images/Record)** &nbsp;|&nbsp; **[Examples](https://alecm1717.github.io/Doc_images/PopularExamples)**
 ---

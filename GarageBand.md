@@ -7,7 +7,7 @@
 ![alt text](https://raw.githubusercontent.com/alecm1717/Doc_images/main/gb_pic.png)
 
 ## *What is GarageBand?*
-GarageBand is a user friendly digital audio workstation(DAW) devloped by Apple. GarageBand acts as a digital music studio allowing users to record and edit voices or instruments. GarageBand is the most beginner friendly of the DAW's but can still be challenging to understand for new users. GarageBand is also the largest free DAW, but yet has all the advanced features that an expensive DAW would have. 
+GarageBand is a user friendly digital audio workstation(DAW) devloped by Apple. GarageBand acts as a digital music studio allowing users to record and edit voices or instruments. GarageBand is the most beginner friendly of the DAW's but can still be challenging to understand for new users. GarageBand is also the largest free DAW, but yet has all the advanced features that an expensive DAW would have. This documentation will help give you all the necessary steps to get started on your first project. After reading this document you will know where/how to install GargageBand, as well as how to start up a new project and use all of its advanced features. 
 ## Download
 This [link](https://www.apple.com/mac/garageband/) is to download GarageBand for free on Mac OS. 
 ### Getting started
